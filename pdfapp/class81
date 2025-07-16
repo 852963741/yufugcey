@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+.background-video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.ractangle {
+width:500px;
+background-image: url(222.webp);
+text-align: center;
+color: mediumblue;
+font-size: 20px;
+}
+</style>
+<body>
+    <video autoplay muted loop class="background-video">
+        <source src="C:\Users\jayshankar\OneDrive\pdfapp\mixkit-autumn-maple-leaves-being-moved-by-the-wind-1611-hd-ready.mp4">
+        </video>
+    <div class="ractangle">
+    <p>all classes pdf is here</p>
+<p>class 8 textbook pdf</p>
+    <p>_______________________________________________</p>
+    <a href="C:\Users\jayshankar\OneDrive\pdfapp\Maharashtra-Board-Class-8-History-Textbook-in-Hindi.pdf"target="_blank">
+<img src="hist8.png"width="150">
+        <p>class 8 hindi history mediam pdf</p>
+</a></div>
+<div class="ractangle">
+    <p>all classes pdf is here</p>
+<p>class 8 textbook pdf</p>
+    <p>_______________________________________________</p>
+    <a href="C:\Users\jayshankar\OneDrive\pdfapp\Maharashtra-Board-Class-8-Maths-Textbook-in-Hindi.pdf"target="_blank">
+<img src="math8.png"width="150">
+        <p>class 8 hindi  mediam  math pdf</p>
+</a></div>
+<div class="ractangle">
+    <p>all classes pdf is here</p>
+<p>class 8 textbook pdf</p>
+    <p>_______________________________________________</p>
+    <a href="C:\Users\jayshankar\OneDrive\pdfapp\Maharashtra-Board-Class-8-Geography-Textbook-in-Hindi.pdf"target="_blank">
+<img src="geog.png"width="150">
+        <p>class 8 hindi  mediam geographic pdf</p>
+</a></div>
+
+<div class="ractangle">
+    <p>all classes pdf is here</p>
+<p>class 8 textbook pdf</p>
+    <p>_______________________________________________</p>
+    <a href="C:\Users\jayshankar\OneDrive\pdfapp\Maharashtra-Board-Class-8-Science-Textbook-in-Hindi.pdf"target="_blank">
+<img src="scie8.png"width="150">
+        <p>class 8 hindi  mediam science pdf</p>
+</a></div>
+
+    
+</body>
+</html>
